@@ -1,0 +1,30 @@
+* { margin:0; padding:0; }
+
+#newsticker-demo { 
+width:190px;
+border-color:#000000;
+background:#FFFFFF; 
+padding:0px 0px 0; 
+font-family:Verdana,Arial,Sans-Serif;
+font-size:12px;
+margin:0px ;
+
+}
+
+#newsticker-demo a { text-decoration:none; }
+#newsticker-demo img { border: 0px solid #FFFFFF; }
+
+#newsticker-demo .title {
+text-align:center;
+font-size:14px;
+font-weight:bold;
+padding:0px;
+}
+
+.newsticker-jcarousellite { width:190px; border:#0000FF; }
+.newsticker-jcarousellite ul li{ list-style:none; display:block; padding-bottom:1px; margin-bottom:0px; }
+.newsticker-jcarousellite .thumbnail { float:left; width:190px; }
+.newsticker-jcarousellite .info { float:right; width:190px; height:55px }
+.newsticker-jcarousellite .info span.cat { display: block; font-size:10px; color:#808080; }
+
+.clear { clear: both; }
